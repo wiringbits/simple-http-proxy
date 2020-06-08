@@ -1,0 +1,4 @@
+# Routes
+POST /         controllers.ProxyController.resolve()
+GET  /health   controllers.ProxyController.health()
+
